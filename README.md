@@ -1,4 +1,6 @@
-[![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/
+[![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)]
+
+From Azure Cloud Shell
 
 * push build
 
@@ -26,3 +28,6 @@ Things included are:
 
 * `githubactions` 
 
+## References
+
+* [Watch Full Walkthrough Here](https://www.youtube.com/watch?v=lbm9ckutS3k)
