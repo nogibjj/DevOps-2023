@@ -11,7 +11,7 @@ uvicorn==0.18.3
 #Third Party Libraries for Tools
 geopy==2.3.0
 wikipedia==1.4.0
-yake==0.4.8
+git+https://github.com/LIAAD/yake
 #development-tools(you don't these for deploy, pinning doesn't matter)
 #ipython
 
