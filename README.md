@@ -26,3 +26,6 @@ Things included are:
 
 * `githubactions` 
 
+## References
+
+* [Watch Full Walkthrough Here](https://www.youtube.com/watch?v=lbm9ckutS3k)
