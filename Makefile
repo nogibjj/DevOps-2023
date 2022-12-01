@@ -21,7 +21,7 @@ deploy:
 	#step 1: auth
 	#aws ecr get-login-password --region us-east-1 |\
 	#docker login --username AWS --password-stdin \
-	561744971673.dkr.ecr.us-east-1.amazonaws.com
+	#561744971673.dkr.ecr.us-east-1.amazonaws.com
 	#step 2: build
 	#docker build -t geoservice .
 	#step 3:  tag
