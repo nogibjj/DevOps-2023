@@ -1,4 +1,6 @@
-"""Build a library of geospatial tools."""
+"""Build a library of geospatial tools.
+This library is used by a travel company.
+"""
 
 from geopy import distance, geocoders
 
