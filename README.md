@@ -1,5 +1,7 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)]
 
+From Azure Cloud Shell
+
 * push build
 
 ## Template for Python projects 
